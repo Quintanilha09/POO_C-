@@ -1,0 +1,5 @@
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
