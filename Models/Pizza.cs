@@ -3,12 +3,13 @@ namespace Pizzaria.Models;
 
     public class Pizza {
 
-        private string nome;
-        private string[] ingredientes = new string[50];
-        private float preco;
+        public string nome;
+        public string[] ingredientes = new string[50];
+        public float preco;
        
-        public void MostrarPizza() {
-            return "Nome: " + this.nome  + "Sabor: "  + this.sabor + "Preço: " + this.preco;
+        public String MostrarPizza() {
+            string ingredientesTexto = string.Join(", ", ingredientes);
+            return $"Nome: {nome}\nIngredientes: {ingredientesTexto}\nPreço: {preco:C2}";
         }
            
     }

@@ -3,3 +3,13 @@ C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\
 C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
 C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
 C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\gabriel_quintanilha\Desktop\Projeto Pizzaria\Pizzaria\obj\Debug\net6.0\ref\Pizzaria.dll

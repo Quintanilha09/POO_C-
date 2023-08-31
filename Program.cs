@@ -6,31 +6,36 @@ Console.WriteLine("1 - Adicionar Pizza");
 Console.WriteLine("2 - Listar Pizzas \n");
 Console.WriteLine("Digite sua opção");
 
-int opcao = Console.ReadLine();
+int opcao = int.Parse(Console.ReadLine());
 
 Pizza Pizza = new Pizza();
+List<Pizza> pizzas = new List<Pizza>();
 
-
-if (opcao == 1)
-{
+while (opcao == 1) {
     Console.WriteLine("Digite o nome da Pizza: ");
-    var nome = Console.ReadLine();
+    string nome = Console.ReadLine();
     Pizza.nome = nome;
 
-    Console.WriteLine("Digite o sabor da Pizza separados por vírgula: ");
-    var ingredientes = Console.ReadLine();
-    Pizza.ingredientes = ingredientes;
+    Console.WriteLine("Adicione os ingredientes da pizza separados por vírgula: ");
+    string ingredientes = Console.ReadLine();
+    Pizza.ingredientes = ingredientes.Split(',');
 
     Console.WriteLine("Digite o preço da Pizza: ");
-    var preco = Console.ReadLine();
+    float preco = float.Parse(Console.ReadLine());
     Pizza.preco = preco;
 
-   
+    pizzas.Add(Pizza);
 
-} else if (opcao == 2) {
-    Pizza.MostrarPizza();
+    Console.WriteLine("ESCOLHA UMA OPÇÃO:");
+    Console.WriteLine("1 - Adicionar Pizza");
+    Console.WriteLine("2 - Listar Pizzas \n");
+    Console.WriteLine("Digite sua opção");
+    opcao = int.Parse(Console.ReadLine());
 
-} else {
-    Console.WriteLine("Você inseriu a opção errada");
 }
+
+Console.WriteLine(pizzas.MostrarPizza());
+
+
+
 
